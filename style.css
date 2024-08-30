@@ -1,4 +1,6 @@
-.contentbox{
-    height:100px;
-    width:100px;
+th{
+    color:darkviolet;
+}
+td{
+    color:aqua;
 }
